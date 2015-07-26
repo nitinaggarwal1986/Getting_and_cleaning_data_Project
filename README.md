@@ -1,7 +1,8 @@
-======================================================
-Course Project: Getting and Cleaning Data(Coursera)
-Author: Nitin Aggarwal
-======================================================
+---
+title: "Course Project of coursera course: Getting and Cleaning Data"
+author: "Nitin Aggarwal"
+date: "July 27, 2015"
+---
 
 ## Aim
 The Aim of the project is start with the data provided and turn it into tidy data set under the given guidelines.
