@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 ======================================================
 Course Project: Getting and Cleaning Data(Coursera)
--Nitin Aggarwal
+Author: Nitin Aggarwal
 ======================================================
 
 ## Aim
@@ -137,7 +136,4 @@ The set of variables that were estimated from these signals are:
 
 mean(): Mean value
 std(): Standard deviation
-=======
-# Getting_and_cleaning_data_Project
-Course Project for the Coursera course on Getting and Cleaning Data
->>>>>>> 8ff12a02e8bddbce6bec7cfc0d4409aac07d04c8
+
